@@ -10,13 +10,13 @@ settings:
 preloader:
   logo:
     image: "assets/img/logo2.png"
-    alt: "Zoé Miller"
+    alt: "Kamil Hassan"
 
 ### Header
 header:
   logo:
     image: "assets/img/logo2.png"
-    alt: "Zoé Miller"
+    alt: "Kamil Hassan"
 
 ### Social
 social:
